@@ -1,0 +1,71 @@
+﻿body {
+}
+#services_banner {
+    margin-left:280px
+}
+
+#services_border {
+    padding: 20px;
+    padding-bottom:60px;
+    margin-top: 25px;
+    margin-left:275px;
+    border:ridge;
+    width:800px
+}
+
+#construction {
+    margin-bottom: 10px;
+    border: ridge;
+    width: 150px;
+    height: 150px;
+    
+}
+.construction_paragraph p {
+    padding: 20px;
+    margin-left: 150px;
+    margin-top: -160px;
+}
+
+.maintenance_paragraph p {
+    padding: 20px;
+    margin-left: 150px;
+    margin-top: -160px;
+}
+
+.repairs_paragraph p {
+    padding: 20px;
+    margin-left: 150px;
+    margin-top: -160px;
+}
+
+.property_management__paragraph p {
+    padding: 20px;
+    margin-left: 150px;
+    margin-top: -160px;
+}
+
+#maintenance {
+    margin-top:30px;
+    margin-bottom: 10px;
+    border: ridge;
+    width: 150px;
+    height: 150px;
+}
+
+#repairs {
+    margin-bottom: 10px;
+    border: ridge;
+    width: 150px;
+    height: 150px;
+}
+
+#property_management {
+    margin-bottom: 10px;
+    border: ridge;
+    width: 150px;
+    height: 150px;
+}
+
+img{
+    padding:5px
+}

@@ -1,0 +1,249 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="../Scripts/Home.js" type="text/javascript"></script>
+    <!--<script src="../Scripts/jquery-3.3.1.js" type="text/javascript"></script>-->
+    <link href="../Styles/template.css" rel="stylesheet" />
+    <link href="../Styles/banner.css" rel="stylesheet" />
+    <link href="../Styles/home.css" rel="stylesheet" />
+    <script src="../Scripts/bootstrap.js"></script>
+    <title>Home</title>
+</head>
+<body>
+
+    <nav>
+        <a href="home.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <!--<a href="Testimonials.html">Testimonials</a>-->
+        <a href="contactUs.html">Contact us</a>
+    </nav>
+
+    <h1 style="margin-left:500px">Juba General Projects</h1>
+    <div id="motto">motto/statement of companymotto/statement of companymotto/statement of companymotto/statement of company</div>
+
+
+
+    <div class="myBanner-container">
+        <div class="myBanner fade">
+            <!--<div class="numbertext">1 / 7</div>-->
+            <img src="../gallery/construction banners/construction banner1.jpg" width="300" height="450" />
+        </div>
+
+        <div class="myBanner fade">
+            <!--<div class="numbertext">2 / 7</div>-->
+            <img src="../gallery/construction banners/construction banner2.jpg" width="300" height="450" />
+        </div>
+
+        <div class="myBanner fade">
+            <!--<div class="numbertext">3 / 7</div>-->
+            <img src="../gallery/construction banners/construction banner3.jpg" width="300" height="450" />
+        </div>
+
+        <div class="myBanner fade">
+            <!--<div class="numbertext">4 / 7</div>-->
+            <img src="../gallery/construction banners/construction banner4.jpg" width="300" height="450" />
+        </div>
+
+        <div class="myBanner fade">
+            <!--<div class="numbertext">5 / 7</div>-->
+            <img src="../gallery/construction banners/construction banner5.jpg" width="300" height="450" />
+        </div>
+
+        <div class="myBanner fade">
+            <!--<div class="numbertext">6 / 7</div>-->
+            <img src="../gallery/construction banners/construction banner6.jpg" width="300" height="450" />
+        </div>
+
+        <div class="myBanner fade">
+            <!--<div class="numbertext">7 / 7</div>-->
+            <img src="../gallery/construction banners/construction banner7.jpg" width="300" height="450" />
+        </div>
+
+        <!--<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>-->
+    </div>
+    <br>
+
+    <!--<div style="text-align:center">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+    </div>-->
+
+    <script type="text/javascript">
+        //var slideIndex = 1;
+        //myBanner(slideIndex);
+
+        //// Next/previous controls
+        //function plusSlides(n) {
+        //    myBanner(slideIndex += n);
+        //}
+
+        //// Thumbnail image controls
+        //function currentSlide(n) {
+        //    myBanner(slideIndex = n);
+        //}
+
+        //function showSlides(n) {
+        //    var i;
+        //    var slides = document.getElementsByClassName("myBanner");
+        //    var dots = document.getElementsByClassName("dot");
+        //    if (n > slides.length) { slideIndex = 1 }
+        //    if (n < 1) { slideIndex = slides.length }
+        //    for (i = 0; i < slides.length; i++) {
+        //        slides[i].style.display = "none";
+        //    }
+        //    for (i = 0; i < dots.length; i++) {
+        //        dots[i].className = dots[i].className.replace(" active", "");
+        //    }
+        //    slides[slideIndex - 1].style.display = "block";
+        //    dots[slideIndex - 1].className += " active";
+        //}
+
+        var slideIndex = 0;
+        showSlides();
+
+        function showSlides() {
+            var i;
+            var slides = document.getElementsByClassName("myBanner");
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            slideIndex++;
+            if (slideIndex > slides.length) { slideIndex = 1; }
+            slides[slideIndex - 1].style.display = "block";
+            setTimeout(showSlides, 6000); // Change image every 2 seconds
+        }
+    </script>
+
+    <div id="servicesHome">
+        <br />
+        <br />
+        <br />
+        <h1 style="padding-left: 50px">Services</h1>
+        <br />
+
+        <h3>Construction</h3>
+        <p>Construction is the process of constructing a building or infrastructure. Construction differs from manufacturing in that manufacturing typically involves mass production of similar items without a designated purchaser, while construction typically takes place on location for a known client. Wikipedia</p>
+
+        <h3>Maintenance</h3>
+        <p>We provide commercial building maintenance services including electrical, heating and air, refrigeration, construction, plumbing and parking lot striping.</p>
+
+        <h3>Repairs</h3>
+        <p>Home repair involves the diagnosis and resolution of problems in a home, and is related to home maintenance to avoid such problems. Wikipedia</p>
+
+        <h3>Property management</h3>
+        <p>Property management is the operation, control, and oversight of real estate management indicates a need to be cared for, monitored and accountability given for its useful life and condition.</p>
+    </div>
+    <br />
+
+    
+    <h1 style="padding-left: 50px; padding-top:100px">News</h1>
+
+    <div id="news">
+       <article  class="article1">          
+           <h4>
+               <a >
+                   This South African super-strong brick is made from human urine - a world first <br />
+                   - Business Insider
+                   </a>
+           </h4>
+           <a href="home.html" #article1">
+               <img src="../gallery/news/news1.png" height="200px" width="300px" style="margin-left: 50px;
+    margin-right: 450px;" />
+               </a>
+               <!--<p class="article1_p">
+        Dr Dyllon Randall and civil engineering honour student Vukheta Mukhari and civil engineering masters student Suzanne Lambert with the “bio bricks” made from human urine they produced (supplied, Robyn Walker)
+    </p>-->
+               <br />
+</article>
+        <article class="article2">
+
+            <h4>
+                Infrastructure fund to be fleshed out in February budget <br />
+                - Published by SA Construction News
+            </h4>
+            <img src="../gallery/news/news2.jpg" height="200px" width="150px" style="margin-left: 50px;
+    margin-right: 450px;" />
+            <!--<p class="article2_p">
+                The specifics of the infrastructure fund, announced as part of South Africa’s stimulus package, will be announced in the February 2019 Budget.            <h4>
+            </p>-->
+            <br />
+
+        </article>
+        <article class="article3">
+            <h4>
+                How to negotiate infrastructure deals with China: four things African governments need to get right <br />
+                - BizCommunity
+            </h4>
+            <img src="../gallery/news/news3.jpg"  height="200px" width="300px" style="margin-left: 50px;
+    margin-right: 450px;" />
+            <!--<p class="article3_p">
+                "You don't negotiate with China!" I was quickly told when I started interviewing African public servants about their infrastructure deals with Beijing. There is a widespread view in Africa that you accept whatever terms are offered, for fear that the money might go somewhere else instead.</p>
+            <br>-->
+
+        </article>
+        <article class="article4">
+            <h4>
+                Infrastructure revamp to create employment for Johannesburg
+                - Construction News Magazine
+            </h4>
+            <img src="../gallery/news/news4.jpg"  height="200px" width="400px" style="margin-left: 50px;
+    margin-right: 450px;" />
+            <!--<p class="article4_p">
+                Johannesburg Executive Mayor Herman Mashaba believes rejuvenation of the inner city infrastructure has potential to spur construction and other economic activities.
+                “Growth in employment opportunities can only come about in the City if we transform the inner city, which has long been neglected; both the inhabitants and building infrastructure,” said Mashaba.
+            </p>-->         
+
+        </article>
+    </div>
+
+    <!--<div id="news_section">
+        <article class="article1_1">
+            <h4>
+                This South African super-strong brick is made from human urine - a world first <br />
+                - Business Insider
+            </h4>
+            <a href="https://www.businessinsider.co.za/worlds-first-brick-made-from-urine-made-in-south-africa-uct-2018-10">
+                <img src="../gallery/news/news1.png" height="200px" width="300px" style="margin-left: 50px;
+             margin-right: 450px;" />
+            </a>
+            <p class="article1_p">
+                The world’s first ‘bio-brick’ made from human urine was unveiled by University of Cape Town (UCT) civil engineering masters student Suzanne Lambert on Wednesday.
+                Bricks made from urine were previously tested in the United States in 2010, but made use of a synthetic solution.
+                Dr Dyllon Randall, Lambert’s supervisor and senior lecturer in water quality at UCT, explained that the “bio brick” is created through a natural process called microbial carbonate precipitation.
+                “It’s not unlike the way seashells are formed,” Randall said.
+                <br /><br />
+                Parts of the urine are combined with loose sand and a bacteria to produce an enzyme called urease which breaks down the urine to produce calcium carbonate through a complex chemical reaction.
+                <br /><br />
+                The calcium carbonate turns the sand into "cement". The bricks are made in moulds at room temperature - better for the environment, as regular bricks are kiln-fired at temperatures around 1 400°C and produce vast quantities of carbon dioxide.
+                The strength of the bio-bricks would depend on client needs.
+                “If a client wanted a brick stronger than a 40% limestone brick, you would allow the bacteria to make the solid stronger by ‘growing’ it for longer,” said Randall.
+                Randal said, chemically speaking, urine is “liquid gold”.....<a href="https://www.businessinsider.co.za/worlds-first-brick-made-from-urine-made-in-south-africa-uct-2018-10">read more</a>
+            </p>
+        </article>
+
+        <script src="../Scripts/jquery-3.3.1.js"></script>
+        <script type="text/javascript">
+    $(function () {
+        $('.article1').on('click', function () {
+            $('#news_section').html('<h4> <a >This South African super-strong brick is made from human urine - a world first <br />- Business Insider</a></h4><a href="home.html" #article1"><img src="../gallery/news/news1.png" height="200px" width="300px" style="margin-left: "50px" margin-right: "450px";" /></a>')
+           // <a href="home.html" #article1">This South African super-strong brick is made from human urine - a world first <br /></a>');
+        });
+    });
+        </script>
+    </div>-->
+
+
+
+    <!--<hr />-->
+
+    <div id="yoki">
+        Site Designed / Developed by Yoki Technologies <img src="../gallery/Yoki-02.png" width="150" height="50" />
+    </div>
+</body>
+</html >

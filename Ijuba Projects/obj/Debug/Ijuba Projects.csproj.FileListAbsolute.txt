@@ -1,0 +1,56 @@
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\Ijuba Projects.dll.config
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\Ijuba Projects.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\Ijuba Projects.pdb
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\csc.exe
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\csc.exe.config
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\csc.rsp
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\csi.exe
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\csi.exe.config
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\csi.rsp
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.AppContext.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.Console.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.IO.Compression.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.IO.Pipes.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.Security.Claims.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.ValueTuple.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.Xml.XPath.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\vbc.exe
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\vbc.exe.config
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\vbc.rsp
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\VBCSCompiler.exe
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\obj\Debug\Ijuba Projects.csprojAssemblyReference.cache
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\obj\Debug\Ijuba Projects.csproj.CoreCompileInputs.cache
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\obj\Debug\Ijuba Projects.csproj.CopyComplete
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\obj\Debug\Ijuba Projects.dll
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\Ijuba Projects\Ijuba Projects\obj\Debug\Ijuba Projects.pdb

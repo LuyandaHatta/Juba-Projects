@@ -1,0 +1,49 @@
+﻿body {
+  
+}
+#servicesHome{
+    
+}
+h3, p {
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 450px;
+}
+h4 {
+    margin-left: 50px;
+    
+    
+    width: 400px
+}
+
+.article1_p {
+    text-align: left;
+    width:500px
+}
+.article2_p {
+    text-align: left;
+    width: 500px
+}
+.article3_p {
+    text-align: left;
+    width: 500px
+}
+.article4_p {
+    text-align: left;
+    width: 500px
+}
+#news_section{
+    width:600px;
+    height:700px;
+    border:dashed;
+    float:right;
+    margin-right:auto;
+    margin-top: -1150px
+}
+
+#news_section, .article1_1 {
+    display: 
+}
+#news, .article1,:hover{ 
+    cursor:
+}
